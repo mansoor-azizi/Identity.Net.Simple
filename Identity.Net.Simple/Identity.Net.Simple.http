@@ -1,0 +1,6 @@
+@Identity.Net.Simple_HostAddress = http://localhost:5025
+
+GET {{Identity.Net.Simple_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
